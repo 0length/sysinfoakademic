@@ -1,4 +1,4 @@
-@extends('layouts.dashboard.master')
+@extends('layouts.admin.master')
 @section('content')
 <div class="main-content" id="content-wrapper">
 				<div class="container-fluid">

@@ -17,3 +17,11 @@ Route::get('/', function () {
 Route::get('/dashboard/admin', function () {
     return view('admin.dashboard');
 });
+
+Route::get('/dashboard/admin/addstudent', function () {
+    return view('admin.add-student');
+});
+
+Route::get('/dashboard/admin/addsubject', function () {
+    return view('admin.add-subject');
+});

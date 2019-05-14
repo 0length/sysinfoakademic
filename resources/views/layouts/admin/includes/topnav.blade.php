@@ -93,7 +93,7 @@
 							<li>
 								<div class="list-msg">
 									<div class="col-xs-2 image clear-padding">
-										<img src="assets/img/parent/parent1.jpg" alt="user" />
+										<img src="assets/img/parent/parent2.jpg" alt="user" />
 									</div>
 									<div class="col-sm-10 desc">
 										<h5><a href="#">Lenore Doe</a></h5>
