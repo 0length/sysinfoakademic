@@ -25,3 +25,11 @@ Route::get('/dashboard/admin/addstudent', function () {
 Route::get('/dashboard/admin/addsubject', function () {
     return view('admin.add-subject');
 });
+
+Route::get('/dashboard/admin/addsection', function () {
+    return view('admin.add-section');
+});
+
+Route::get('/dashboard/admin/addclass', function () {
+    return view('admin.add-class');
+});
