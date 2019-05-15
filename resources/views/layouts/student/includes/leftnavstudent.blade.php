@@ -1,7 +1,7 @@
 <div class="sidebar-nav-wrapper" id="sidebar-wrapper">
 				<ul class="sidebar-nav">
 					<li>
-						<a href="student-dashboard.html"><i class="fa fa-home menu-icon"></i> HOME</a>
+						<a href="dashboard"><i class="fa fa-home menu-icon"></i> HOME</a>
 					</li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -9,10 +9,10 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="student-assignment-download.html"><i class="fa fa-caret-right"></i>DOWNLOAD</a>
+								<a href="assignmentdownload"><i class="fa fa-caret-right"></i>DOWNLOAD</a>
 							</li>
 							<li>
-								<a href="student-assignment-upload.html"><i class="fa fa-caret-right"></i>UPLOAD</a>
+								<a href="assignmentupload"><i class="fa fa-caret-right"></i>UPLOAD</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
@@ -23,16 +23,16 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>							
-								<a href="student-attendence.html"><i class="fa fa-caret-right"></i>SUMMARY</a>
+								<a href="attendence"><i class="fa fa-caret-right"></i>SUMMARY</a>
 							</li>
 							<li>
-								<a href="student-attendence-detailed.html"><i class="fa fa-caret-right"></i>DETAILED</a>
+								<a href="attendencedetail"><i class="fa fa-caret-right"></i>DETAILED</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
 					</li>
 					<li>
-						<a href="message.html"><i class="fa fa-envelope menu-icon"></i> MY MESSAGES</a>
+						<a href="message"><i class="fa fa-envelope menu-icon"></i> MY MESSAGES</a>
 					</li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -40,19 +40,19 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>							
-								<a href="student-marks.html"><i class="fa fa-caret-right"></i>CLASS ASSESSMENT</a>
+								<a href="marks"><i class="fa fa-caret-right"></i>CLASS ASSESSMENT</a>
 							</li>
 							<li>
-								<a href="student-marks.html"><i class="fa fa-caret-right"></i>MID TERM</a>
+								<a href="marks"><i class="fa fa-caret-right"></i>MID TERM</a>
 							</li>
 							<li>
-								<a href="student-marks.html"><i class="fa fa-caret-right"></i>END TERM</a>
+								<a href="marks"><i class="fa fa-caret-right"></i>END TERM</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
 					</li>
 					<li>
-						<a href="student-timetable.html"><i class="fa fa-calendar menu-icon"></i> TIME TABLE</a>
+						<a href="timetable"><i class="fa fa-calendar menu-icon"></i> TIME TABLE</a>
 					</li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -60,16 +60,16 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>							
-								<a href="student-exam-plan.html"><i class="fa fa-caret-right"></i>SEATING PLAN</a>
+								<a href="examplan"><i class="fa fa-caret-right"></i>SEATING PLAN</a>
 							</li>
 							<li>
-								<a href="student-exam-schedule.html"><i class="fa fa-caret-right"></i>EXAM SCHEDULE</a>
+								<a href="examschedule"><i class="fa fa-caret-right"></i>EXAM SCHEDULE</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
 					</li>
 					<li>
-						<a href="student-fees.html"><i class="fa fa-money menu-icon"></i> FEE DETAILS</a>
+						<a href="fees"><i class="fa fa-money menu-icon"></i> FEE DETAILS</a>
 					</li>
 				</ul>
 			</div>
