@@ -1,7 +1,7 @@
 <div class="sidebar-nav-wrapper" id="sidebar-wrapper">
 				<ul class="sidebar-nav">
 					<li>
-						<a href="admin-dashboard.html"><i class="fa fa-home menu-icon"></i> HOME</a>
+						<a href="dashboard"><i class="fa fa-home menu-icon"></i> HOME</a>
 					</li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -9,10 +9,10 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="admin-add-student.html"><i class="fa fa-caret-right"></i>ADD</a>
+								<a href="addstudent"><i class="fa fa-caret-right"></i>ADD</a>
 							</li>
 							<li>
-								<a href="admin-student-list.html"><i class="fa fa-caret-right"></i>ALL STUDENT  </a>
+								<a href="student-list"><i class="fa fa-caret-right"></i>ALL STUDENT  </a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
@@ -23,19 +23,19 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="admin-add-teacher.html"><i class="fa fa-caret-right"></i>ADD</a>
+								<a href="addteacher"><i class="fa fa-caret-right"></i>ADD</a>
 							</li>
 							<li>
-								<a href="admin-teacher-list.html"><i class="fa fa-caret-right"></i>ALL TEACHER</a>
+								<a href="teacher-list"><i class="fa fa-caret-right"></i>ALL TEACHER</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
 					</li>
 					<li>
-						<a href="message.html"><i class="fa fa-envelope menu-icon"></i> MY MESSAGES</a>
+						<a href="message"><i class="fa fa-envelope menu-icon"></i> MY MESSAGES</a>
 					</li>
 					<li>
-						<a href="admin-add-announcement.html"><i class="fa fa-bullhorn menu-icon"></i> ANNOUNCEMENTS</a>
+						<a href="addannouncement"><i class="fa fa-bullhorn menu-icon"></i> ANNOUNCEMENTS</a>
 					</li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -43,16 +43,16 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="admin-add-class.html"><i class="fa fa-caret-right"></i>ADD CLASS</a>
+								<a href="addclass"><i class="fa fa-caret-right"></i>ADD CLASS</a>
 							</li>
 							<li>
-								<a href="admin-add-section.html"><i class="fa fa-caret-right"></i>ADD SECTION</a>
+								<a href="addsection"><i class="fa fa-caret-right"></i>ADD SECTION</a>
 							</li>
 							<li>
-								<a href="admin-add-class.html"><i class="fa fa-caret-right"></i>VIEW SECTIONS</a>
+								<a href="addclass"><i class="fa fa-caret-right"></i>VIEW SECTIONS</a>
 							</li>
 							<li>
-								<a href="admin-add-section.html"><i class="fa fa-caret-right"></i>VIEW CLASSES</a>
+								<a href="addsection"><i class="fa fa-caret-right"></i>VIEW CLASSES</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
@@ -63,10 +63,10 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="admin-add-subject.html"><i class="fa fa-caret-right"></i>ADD</a>
+								<a href="addsubject"><i class="fa fa-caret-right"></i>ADD</a>
 							</li>
 							<li>
-								<a href="admin-add-subject.html"><i class="fa fa-caret-right"></i>VIEW SUBJECTS</a>
+								<a href="addsubject"><i class="fa fa-caret-right"></i>VIEW SUBJECTS</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
@@ -77,10 +77,10 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="admin-create-timetable.html"><i class="fa fa-caret-right"></i>CREATE</a>
+								<a href="createtimetable"><i class="fa fa-caret-right"></i>CREATE</a>
 							</li>
 							<li>
-								<a href="admin-class-timetable.html"><i class="fa fa-caret-right"></i>VIEW</a>
+								<a href="classtimetable"><i class="fa fa-caret-right"></i>VIEW</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
@@ -91,10 +91,10 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="teacher-attendence-report.html"><i class="fa fa-caret-right"></i>ATTENDENCE</a>
+								<a href="teacher-attendence-report"><i class="fa fa-caret-right"></i>ATTENDENCE</a>
 							</li>
 							<li>
-								<a href="teacher-marks-report.html"><i class="fa fa-caret-right"></i>MARKS</a>
+								<a href="teacher-marks-report"><i class="fa fa-caret-right"></i>MARKS</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
