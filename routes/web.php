@@ -87,3 +87,49 @@ Route::get('/dashboard/student/fees', function() {
 Route::get('/dashboard/student/marks', function() {
     return view('student.marks');
 });
+
+//teacher
+
+Route::get('/dashboard/teacher/dashboard', function() {
+    return view('teacher.dashboard');
+});
+
+Route::get('/dashboard/teacher/addstudentmarks', function() {
+    return view('teacher.add-student-marks');
+});
+
+Route::get('/dashboard/teacher/assignmentdownload', function() {
+    return view('teacher.assignment-download');
+});
+
+Route::get('/dashboard/teacher/attendencereport', function() {
+    return view('teacher.attendence-report');
+});
+
+Route::get('/dashboard/teacher/createassignment', function() {
+    return view('teacher.create-assignment');
+});
+
+Route::get('/dashboard/teacher/marksreport', function() {
+    return view('teacher.marks-report');
+});
+
+Route::get('/dashboard/teacher/attendencereport', function() {
+    return view('teacher.attendence-report');
+});
+
+Route::get('/dashboard/teacher/marksstudentattendence', function() {
+    return view('teacher.marks-student-attendence');
+});
+
+Route::get('/dashboard/teacher/timetable', function() {
+    return view('teacher.timetable');
+});
+
+Route::get('/dashboard/teacher/viewstudentattendence', function() {
+    return view('teacher.view-student-attendence');
+});
+
+Route::get('/dashboard/teacher/viewstudentmarks', function() {
+    return view('teacher.view-student-marks');
+});
