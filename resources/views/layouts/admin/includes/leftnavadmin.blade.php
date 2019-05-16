@@ -12,7 +12,7 @@
 								<a href="addstudent"><i class="fa fa-caret-right"></i>ADD</a>
 							</li>
 							<li>
-								<a href="student-list"><i class="fa fa-caret-right"></i>ALL STUDENT  </a>
+								<a href="studentlist"><i class="fa fa-caret-right"></i>ALL STUDENT  </a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
@@ -26,7 +26,7 @@
 								<a href="addteacher"><i class="fa fa-caret-right"></i>ADD</a>
 							</li>
 							<li>
-								<a href="teacher-list"><i class="fa fa-caret-right"></i>ALL TEACHER</a>
+								<a href="teacherlist"><i class="fa fa-caret-right"></i>ALL TEACHER</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
@@ -91,10 +91,10 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="teacher-attendence-report"><i class="fa fa-caret-right"></i>ATTENDENCE</a>
+								<a href="teacherattendence-report"><i class="fa fa-caret-right"></i>ATTENDENCE</a>
 							</li>
 							<li>
-								<a href="teacher-marks-report"><i class="fa fa-caret-right"></i>MARKS</a>
+								<a href="teachermarks-report"><i class="fa fa-caret-right"></i>MARKS</a>
 							</li>
 						</ul>
 						<div class="clearfix"></div>
